@@ -1,4 +1,26 @@
-## Hi there 👋
+## 自己紹介
+西川広輝ベンツェと申します。
+都内の制作会社でWebサイトを作ってます。
+最近はアプリ・ツール開発を学習中です。
+
+## 連作先
+nishikawa@hirokibence.com
+
+<!--
+**HirokiBence/HirokiBence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **HirokiBence/HirokiBence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
