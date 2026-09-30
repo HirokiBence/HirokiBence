@@ -6,6 +6,19 @@
 ## 連作先
 nishikawa@hirokibence.com
 
+## Skills
+### Launguages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vite,react,nextjs)](https://skillicons.dev)
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,monodb)](https://skillicons.dev)
+### Development Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
+### Desgin
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps)](https://skillicons.dev)
+
+
 <!--
 **HirokiBence/HirokiBence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
