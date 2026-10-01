@@ -1,4 +1,4 @@
-# Profile
+# About me
 西川広輝ベンツェと申します。<br>
 都内の制作会社でWebサイトを作ってます。<br>
 アプリ・ツール開発を学習中です。<br>
@@ -8,7 +8,7 @@ nishikawa@hirokibence.com
 
 ## Skills
 ### Launguages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,cs)](https://skillicons.dev)
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vite,react,nextjs)](https://skillicons.dev)
 ### Backend
