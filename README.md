@@ -1,7 +1,7 @@
 # Profile
 西川広輝ベンツェと申します。<br>
 都内の制作会社でWebサイトを作ってます。<br>
-最近はアプリ・ツール開発を学習中です。<br>
+アプリ・ツール開発を学習中です。<br>
 
 ## Contact
 nishikawa@hirokibence.com
