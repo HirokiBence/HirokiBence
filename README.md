@@ -11,12 +11,14 @@ nishikawa@hirokibence.com
 [![My Skills](https://skillicons.dev/icons?i=js,ts,php)](https://skillicons.dev)
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vite,react,nextjs)](https://skillicons.dev)
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ### Development Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker)](https://skillicons.dev)
 ### Desgin
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,ai)](https://skillicons.dev)
 
 
 <!--
